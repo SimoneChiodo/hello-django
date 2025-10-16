@@ -8,5 +8,10 @@ def home(request):
     context = {"nomeUtente": "Pietro"}
     return render(request, "home.html", context)
 
+
+def about(request):
+    return render(request, "about.html")
+
+
 # In python tutte le funzioni sono automaticamente esportate,
 # non c'è bisogno di un export esplicito come in JavaScript
