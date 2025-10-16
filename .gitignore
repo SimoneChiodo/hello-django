@@ -1,0 +1,7 @@
+# File e cartelle temporanei
+__pycache__/
+*.pyc
+*.pyo
+
+# Cartella delle migrazioni
+*/migrations/__pycache__/
