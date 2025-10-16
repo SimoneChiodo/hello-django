@@ -1,4 +1,4 @@
-# 🐍 Progetto Django: Hello Django
+# Progetto Django: Hello Django
 
 ## 📖 Descrizione
 **Hello Django** è un progetto didattico creato per imparare le basi di **Django**, il popolare framework Python per lo sviluppo web.  
